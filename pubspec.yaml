@@ -11,7 +11,6 @@ dependencies:
   flutter:
     sdk: flutter
   
-
   cupertino_icons: ^1.0.2
 #  Service Locator
   get_it: ^7.2.0
@@ -34,7 +33,7 @@ dependencies:
   flutter_toastr: ^1.0.3
   bottom_sheet: ^3.1.2
   modal_bottom_sheet: ^2.1.2
-  
+  fluttertoast: ^8.2.1
 
   
 dev_dependencies:
